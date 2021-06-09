@@ -3,6 +3,8 @@ node_modules/
 vendor/
 
 # Ignore generated files
+build/
+coverage/
 dist/
 tmp/
 CHANGELOG.md
